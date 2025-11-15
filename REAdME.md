@@ -6,6 +6,16 @@ Raspberry Pi Picoを使用したLEDブリンクプロジェクトです。
 
 このリポジトリは、Raspberry Pi PicoでLEDを点滅させる基本的なプログラムを含んでいます。組み込みシステム開発の入門として最適です。
 
+## 動作環境
+
+- Raspberry Pi Pico WH
+- Thonny
+- MicroPython
+- macOS Sequoia 15.6
+
+- MicroPython UF2 file
+  - [docs link](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html#drag-and-drop-micropython)
+
 ## 必要なもの
 
 - Raspberry Pi Pico
