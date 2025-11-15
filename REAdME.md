@@ -12,6 +12,16 @@ Raspberry Pi Picoを使用したLEDブリンクプロジェクトです。
 - Thonny
 - MicroPython
 - macOS Sequoia 15.6
+- Visual Studio Code
+  - Version: 1.106.0
+  - Commit: ac4cbdf48759c7d8c3eb91ffe6bb04316e263c57
+  - Date: 2025-11-11T16:02:25.943Z
+  - Electron: 37.7.0
+  - ElectronBuildId: 12597478
+  - Chromium: 138.0.7204.251
+  - Node.js: 22.20.0
+  - V8: 13.8.258.32-electron.0
+  - OS: Darwin arm64 24.6.0
 
 - MicroPython UF2 file
   - [docs link](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html#drag-and-drop-micropython)
