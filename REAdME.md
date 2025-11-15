@@ -9,6 +9,7 @@ Raspberry Pi Picoを使用したLEDブリンクプロジェクトです。
 ## 動作環境
 
 - Raspberry Pi Pico WH
+  - Datasheet: [Raspberry Pi Pico Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#documentation)
 - Thonny
 - MicroPython
 - macOS Sequoia 15.6
